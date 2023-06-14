@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are glad to make this project a reality.
+<h2 align="center"> I can do all things through christ that strengthens me.
 	Landmark Technologies is a software development company. 
 	Class32 will make a great set of 2023.
 	The shout of the King Jesus is in our midst.praise God. HE IS OUR SUCCESS ACCESS KEY</h2>
